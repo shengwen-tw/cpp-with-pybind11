@@ -1,6 +1,6 @@
 # cpp-with-pybind11
 
-Pack C++ code to shared object (*.so) and load by python.
+Pack C++ code into shared object (*.so) and loaded by python.
 
 ## usage
 
